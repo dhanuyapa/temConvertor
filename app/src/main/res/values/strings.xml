@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">temprature convertor</string>
+    <string name="Hint">Input Temperature</string>
+    <string name="fah">farenite</string>
+    <string name="far">farenite</string>
+    <string name="cel">celsios</string>
+    <string name="button">calculate</string>
+    <string name="lbl">Answer</string>
+    <string name="text">Answer</string>
+    <string name="te">Calculate</string>
+    <string name="btn">Calculate</string>
+    <string name="Answer">Answer</string>
+    <string name="Answerr">Answer</string>
+    <string name="celsious">celsious</string>
+</resources>
